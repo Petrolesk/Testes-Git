@@ -1,0 +1,4 @@
+arquivo para testar a separação do código só para as funcionalidades dentro da mesma pasta
+Senha
+Email
+Endereço
